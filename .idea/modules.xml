@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OopsSBQ.iml" filepath="$PROJECT_DIR$/.idea/OopsSBQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scenerio/Scenerio.iml" filepath="$PROJECT_DIR$/Scenerio/Scenerio.iml" />
+    </modules>
+  </component>
+</project>
