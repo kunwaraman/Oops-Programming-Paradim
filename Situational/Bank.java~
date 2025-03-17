@@ -22,6 +22,7 @@ public class Bank {
             account.displayAccountDetails();
             account.displayAccountType();
             System.out.println();
+
         }
     }
     public void performTransaction(int accountNumber,String transactionType,double amount){
@@ -37,9 +38,13 @@ public class Bank {
                 return;
             }
         }
-        System.out.println("Account not found");
+        System.out.println();
 
     }
+
+
+
+
     public String getBankName() {
         return bankName;
     }
